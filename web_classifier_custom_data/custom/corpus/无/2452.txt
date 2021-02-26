@@ -1,0 +1,1 @@
+倾向评分匹配（Propensity Score Matching，简称PSM）是一种统计学方法，用于处理观察研究（Observational Study）的数据。

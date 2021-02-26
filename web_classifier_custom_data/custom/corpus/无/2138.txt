@@ -1,0 +1,1 @@
+The most common type of forward transaction is the FX swap. In an FX swap, two parties exchange currencies for a certain length of time and agree to reverse the transaction at a later date. These are not standardized contracts and are not traded through an exchange.

@@ -1,0 +1,1 @@
+SecureCRT和SecureFX可以从彼此内部启动，并共享主机信息列表。

@@ -1,0 +1,1 @@
+[ 12 ] 2006 年 ， 苹果公司 发布 因特尔 架构 的 麦金塔 （ 英语 ： Apple – Intelarchitecture ） ， 同时 使用 几乎 完全相同 的 统一 可 延伸 固件 接口 ROM （ 虽然 其 依然 名为 BootROM ） 和 boot . efi 文件 代替 BootX 登上 了 历史舞台 。

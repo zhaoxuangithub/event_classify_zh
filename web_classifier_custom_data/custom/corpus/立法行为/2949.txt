@@ -1,0 +1,1 @@
+2016年3月1日，Mozilla VR团队和Google Chrome小组宣布推出WebVR API提案的1.0版本[3]。

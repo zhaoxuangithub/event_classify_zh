@@ -1,0 +1,1 @@
+虽然 GCJ - 02 坐标 系统 本身 保密 ， 但是 目前 已有 C# [ 18 ] 、 C 、 Go 、 Java 、 JavaScript 、 PHP [ 19 ] 、 Python [ 20 ] 、 R [ 12 ] 、 Ruby [ 21 ] [ 22 ] 等 多种语言 的 开源 转换 实现 。

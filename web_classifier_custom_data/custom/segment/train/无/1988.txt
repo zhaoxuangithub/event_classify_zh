@@ -1,0 +1,1 @@
+历经 20 年 的 沿革 ， SEI 不断 地 延展 CMM 意涵 与 适用性 ， 如今 的 CMMI 模式 包含 了 系统工程 （ SystemsEngineering , SE ） 、 软件工程 （ SoftwareEngineering , SW ） 、 集成 产品 与 流程 发展 （ IntegratedProductandProcessDevelopment , IPPD ） ， 以及 委外 作业 （ SupplierSourcing , SS ） 四个 专业 领域 。

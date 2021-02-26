@@ -1,0 +1,1 @@
+2016 年 3 月 1 日 ， MozillaVR 团队 和 GoogleChrome 小组 宣布 推出 WebVRAPI 提案 的 1.0 版本 [ 3 ] 。

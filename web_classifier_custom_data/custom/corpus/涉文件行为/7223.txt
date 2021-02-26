@@ -1,0 +1,1 @@
+[12]2006年，苹果公司发布因特尔架构的麦金塔（英语：Apple–Intel architecture），同时使用几乎完全相同的统一可延伸固件接口ROM（虽然其依然名为BootROM）和boot.efi文件代替BootX登上了历史舞台。
